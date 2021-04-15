@@ -20,7 +20,7 @@ export function Sumary() {
         </header>
         <strong>- R$200,00</strong>
       </div>
-      <div>
+      <div className="highlight-background">
         <header>
           <p>Total</p>
           <img src={totalImg} alt="Total" />
