@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { Container } from "./styles";
 
 export function TransactionsTable() {
-  useEffect;
+  useEffect(() => {}, []);
   return (
     <Container>
       <table>
