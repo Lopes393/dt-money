@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/live-server": "^1.2.0",
+    "axios": "^0.21.1",
+    "gulp-live-server": "^0.0.31",
+    "live-server": "^1.2.1",
     "miragejs": "^0.1.41",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
