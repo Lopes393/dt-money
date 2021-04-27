@@ -8,6 +8,7 @@
     "gulp-live-server": "^0.0.31",
     "live-server": "^1.2.1",
     "miragejs": "^0.1.41",
+    "polished": "^4.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-modal": "^3.13.1",
