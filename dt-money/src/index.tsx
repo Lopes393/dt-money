@@ -10,11 +10,18 @@ createServer({
 
   seeds(server) {
     server.db.loadData({
-      transactions: [{
-        
-      }],
-    })
-  }
+      transactions: [
+        {
+          id: 1,
+          title: "Frelancer",
+          type: "deposit",
+          category: "Dev",
+          amount: 6000,
+          createdAt: new Date(),
+        },
+      ],
+    });
+  },
   routes() {
     this.namespace = "api";
 
